@@ -1,18 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Aplikasi Turnamen Esports GUI
-Rombakan dari versi Jupyter/IPython Display menjadi aplikasi desktop Tkinter + ttkbootstrap.
-
-Library yang digunakan:
-1. tkinter
-2. ttkbootstrap
-3. pandas
-
-Cara menjalankan:
-    pip install ttkbootstrap pandas openpyxl
-    python aplikasi_turnamen_esports_gui.py
-"""
-
 from __future__ import annotations
 
 import os
